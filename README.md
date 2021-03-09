@@ -17,7 +17,6 @@
         <img src="https://github-profile-trophy.vercel.app/?username=rafaelpuerta&column=6&theme=tokyonight"/>
     </p>
 </a>
-
 <a href="https://github.com/rafaelpuerta">
     <p align="center">
         <img align="center" alt="r's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=rafaelpuerta&show_icons=true">
