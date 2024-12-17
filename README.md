@@ -2,11 +2,10 @@
  
  
 
-
-
-
-
-
+![](https://raw.githubusercontent.com/0x14Rp/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/0x14Rp/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/0x14Rp/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/0x14Rp/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 
 
