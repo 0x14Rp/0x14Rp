@@ -2,7 +2,7 @@
 
 Interested in:
 - Distributed Systems 
-- Machine Learning  
+- AI / ML 
 - Understanding how Linux works (and sometimes doesn't).
 
 ![](https://raw.githubusercontent.com/0x14Rp/gh-stats/master/generated/overview.svg#gh-dark-mode-only)
