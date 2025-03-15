@@ -2,9 +2,9 @@
 
 Interested in:
 - tasty food
-- distributed Systems 
+- distributed systems 
 - AI / ML 
-- understanding how Linux works (and sometimes doesn't).
+- understanding how linux works (and sometimes doesn't).
 
 ![](https://raw.githubusercontent.com/0x14Rp/gh-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/0x14Rp/gh-stats/master/generated/overview.svg#gh-light-mode-only)
